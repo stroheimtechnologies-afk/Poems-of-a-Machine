@@ -1,0 +1,22 @@
+Rooster's Rampaging Blades Under the Ensanguined Heaven [血天下雞舞亂刀]
+  60 (55+5) Atk Weight[][][]
+  Unfocused Volley
+  Deal +3% damage for every Burn.pngBurn on self (max 60%)
+  Deal +1% damage for every 2% (missing HP percentage on target + missing HP percentage on self) (max 50%)
+  [On Use] Gain 3 Bloodflame -血炎-.pngBloodflame [血
+  [On Use] Coin Power +1 for every 6 (Burn.pngBurn + Rupture.pngRupture) on the main target (max 2)
+  [On Use] Clash Power +1 for every 20% missing HP on self (max 3)
+  [Clash Win] Gain 10 Burn
+  [After Attack] Consume all Battleblood Instinct
+  [After Attack] At more than 20 Burn, consume up to 25 excess Burn.pngBurn and heal (Burn consumed x 2)% HP
+  I. Unbreakable Coin
+     [On Hit] Inflict +2 Rupture Count
+ II. Unbreakable Coin
+     [On Hit] Inflict +2 Burn Count
+III. Unbreakable Coin
+     [On Hit] Inflict 2 Rupture
+ IV. Unbreakable Coin
+     [On Hit] Inflict 2 Burn
+     [On Hit] If this unit has 20+ Burn, or if this unit has less than 50% HP, Reuse this Coin (once per Skill)
+     [On Hit] Deal (20% of this Coin's final damage) Wrath damage against all targets
+     - If this is the final Coin, heal HP by the amount of damage the above effect dealt
